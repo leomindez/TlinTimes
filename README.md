@@ -4,7 +4,7 @@ Simple Android application using Kotlin Language and API NEWYORKTIMES
 # Libraries
 
 ## Fuel Http Library
-Using Fuel Http requests
+Using Fuel to create Http requests
 https://github.com/kittinunf/Fuel
 
 ## Kotson
